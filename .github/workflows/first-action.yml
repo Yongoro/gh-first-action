@@ -7,4 +7,4 @@ jobs:
       - name: Greetings
         run: echo "Saluti Yongoro"
       - name: Goodbye
-        run: "Arrivederci fratello!"
+        run: echo "Arrivederci fratello!"
